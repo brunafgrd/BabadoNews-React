@@ -1,28 +1,66 @@
 # Babado News - React
 
-Projeto desenvolvido para a disciplina de Desenvolvimento Frontend II da UVA.
+Projeto desenvolvido por **Bruna Elen dos Santos Figueiredo** para a disciplina de **Desenvolvimento Frontend II – UVA**.
 
 ## Sobre o projeto
 
-Migração do site Babado News para React utilizando Vite, integrando as páginas `index.html` e `contato.html` em uma única Landing Page.
+Este projeto consiste na migração do site **Babado News**, desenvolvido originalmente em HTML, CSS e JavaScript, para **React utilizando Vite**.
 
-## Tecnologias
+Nesta etapa, a página inicial e a página de contato do projeto original foram integradas em uma única **Landing Page**, mantendo a identidade visual do site e utilizando navegação por âncoras.
+
+## Tecnologias utilizadas
 
 - React
 - Vite
 - JavaScript
-- CSS
-- Bootstrap
+- HTML5
+- CSS3
+- Bootstrap 5
+- Bootstrap Icons
+- Git
+- GitHub
+- Netlify
 
 ## Projeto original
 
+Repositório do projeto desenvolvido na primeira etapa:
+
 https://github.com/brunafgrd/babadonews
 
-## Como executar
+## Página desenvolvida na primeira etapa
 
+A página utilizada como base para a migração foi a página de contato do projeto original.
+
+## Estrutura da Landing Page
+
+A Landing Page reúne:
+
+- Cabeçalho e navegação
+- Hero / apresentação
+- Notícias em destaque
+- Categorias
+- Newsletter
+- Seção de contato
+- Formulário de contato
+- Perguntas frequentes
+- Rodapé
+
+A navegação do menu utiliza âncoras para levar o usuário às respectivas seções da página.
+
+## Referência HTML
+
+Os arquivos originais utilizados como referência estão disponíveis na pasta:
+
+`referencia-html/`
+
+Nela estão armazenadas as versões originais de:
+
+- `index.html`
+- `contato.html`
+
+## Como executar o projeto
+
+Instale as dependências:
+
+```bash
 npm install
-npm run dev
-
-## Projeto online
-
-Será disponibilizado após o deploy no Netlify.
