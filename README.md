@@ -7,6 +7,7 @@ A proposta desta etapa foi transformar a página principal e a página de contat
 Site: https://babado-news-react.netlify.app
 Repositório: https://github.com/brunafgrd/BabadoNews-React
 Projeto original: https://github.com/brunafgrd/babadonews
+
 💻 Tecnologias
 - React
 - Vite
