@@ -4,6 +4,7 @@ Projeto desenvolvido por Bruna Elen dos Santos Figueiredo, realizando a migraç�
 A proposta desta etapa foi transformar a página principal e a página de contato desenvolvida na primeira parte em uma única Landing Page, mantendo a identidade visual original do projeto.
 
 🌐 Projeto publicado
+
 Site: https://babado-news-react.netlify.app
 Repositório: https://github.com/brunafgrd/BabadoNews-React
 Projeto original: https://github.com/brunafgrd/babadonews
