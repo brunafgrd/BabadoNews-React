@@ -27,7 +27,7 @@ function Navbar() {
 
           <a href="#inicio" className="logo-site">
             <img
-              src="public/img/logo.png"
+              src="/img/logo.png"
               alt="Logo Babado News"
             />
 
