@@ -6,8 +6,15 @@ A proposta desta etapa foi transformar a página principal e a página de contat
 🌐 Projeto publicado
 
 Site: https://babado-news-react.netlify.app
+
 Repositório: https://github.com/brunafgrd/BabadoNews-React
+
 Projeto original: https://github.com/brunafgrd/babadonews
+
+📄 Origem do projeto
+
+- Página que fiz na Parte 1: `contato.html`
+- Autora do `index.html` original: Bruna Elen dos Santos Figueiredo
 
 💻 Tecnologias
 - React
